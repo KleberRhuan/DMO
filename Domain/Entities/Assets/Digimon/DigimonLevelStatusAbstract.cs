@@ -3,7 +3,7 @@ using Domain.Interfaces;
 
 namespace Domain.Entities.Assets.Digimon;
 
-public class DigimonLevelStatus : Status {
+public class DigimonLevelStatusAbstract : StatusAbstract {
 
     [Key]
     public long Id { get; set; }

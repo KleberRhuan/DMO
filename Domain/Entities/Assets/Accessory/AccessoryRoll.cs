@@ -14,7 +14,7 @@ public class AccessoryRoll {
     public virtual Item Item { get; private set; }
 
     [Required]
-    [Range(0, byte.MaxValue, ErrorMessage = "Status Quantity must be a non-negative integer. Less than 255.")]
+    [Range(0, byte.MaxValue, ErrorMessage = "StatusAbstract Quantity must be a non-negative integer. Less than 255.")]
     public byte StatusQuantity { get; private set; }
 
     [Required]

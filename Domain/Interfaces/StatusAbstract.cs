@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Interfaces;
 
-public abstract class Status {
+public abstract class StatusAbstract {
 
     [Required]
     [Range(0, int.MaxValue)]

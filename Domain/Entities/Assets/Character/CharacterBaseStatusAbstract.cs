@@ -5,7 +5,7 @@ using Domain.Interfaces;
 
 namespace Domain.Entities.Assets.Character;
 
-public class CharacterBaseStatus : Status {
+public class CharacterBaseStatusAbstract : StatusAbstract {
     [Key]
     public long Id { get; set; }
     
