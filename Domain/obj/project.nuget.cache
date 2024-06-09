@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99aCqKCAOW1SZeyrEvjsXrv1zYBI0cY3O+6GR/so3+JyT558WKV4k//PwOg/qP0CLgOQL/a6RvkAzIJJIr1Z6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klebe\\RiderProjects\\DMO\\DigimonMastersOnline\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klebe\\.nuget\\packages\\lombok.net\\2.3.1\\lombok.net.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
